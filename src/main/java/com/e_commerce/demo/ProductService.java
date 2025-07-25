@@ -1,5 +1,5 @@
 package com.e_commerce.demo;
 
-public class productService {
+public class ProductService {
     // Brack ......
 }
